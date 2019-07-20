@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0013)about:internet -->
 <html manifest="offline.appcache">
     <head><meta content='IE=Edge' http-equiv='X-UA-Compatible'>
