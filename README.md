@@ -23,7 +23,7 @@
                     <div class='container-fluid  '>
 <section class=''>
 <table cellspacing='0' cellpadding='0' style='border-spacing:0;' onkeydown='javascript:navigate(event);'>
-					<col width='25'/>
+					<col width='1'/>
 					<col width='166'/>
 					<col width='72'/>
 					<col width='62'/>
