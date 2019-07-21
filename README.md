@@ -23,14 +23,14 @@
                     <div class='container-fluid  '>
 <section class=''>
 <table cellspacing='0' cellpadding='0' style='border-spacing:0;' onkeydown='javascript:navigate(event);'>
-					<col width='1'/>
+					<col width='25'/>
 					<col width='166'/>
 					<col width='72'/>
 					<col width='62'/>
                     <tr style='height:16pt;'>
 						<td class='ee100' style='height:16pt;'>&nbsp;</td>
 						<td class='ee103' style='height:16pt;'>
-							Latitude<span> </span>
+							Latitude test<span> </span>
 						</td>
 						<td class='ee106' style='height:16pt;'>
 							<input id='XLEW_1_2_3' type='text' value='' class='ee108 form-control' style='width:100%' onchange="this.value=eedisplayFloat(eeparseFloat(this.value));recalc_onclick('XLEW_1_2_3')" name='XLEW_1_2_3' placeholder='' tabindex='1' data-sheet='1' data-row='2' data-col='3'/>
